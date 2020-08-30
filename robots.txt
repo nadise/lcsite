@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: http://www.lacampana.net.ar/sitemap.xml

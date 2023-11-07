@@ -10,523 +10,583 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/index.html</loc>
+  <loc>https://www.lacampana.com.ar/index</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/catalog.html</loc>
+  <loc>https://www.lacampana.com.ar/catalog</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/trabajos.html</loc>
+  <loc>https://www.lacampana.com.ar/trabajos</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
-  <priority>0.90</priority>
+  <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/category/puertas.html</loc>
-  <lastmod>2022-06-04T17:50:24+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.lacampana.com.ar/category/ventanas.html</loc>
+  <loc>https://www.lacampana.com.ar/category/puertas</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/category/muebles y decoracion.html</loc>
+  <loc>https://www.lacampana.com.ar/category/ventanas</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/exterior.html</loc>
+  <loc>https://www.lacampana.com.ar/category/muebles-decoracion</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
-  <priority>0.70</priority>
+  <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/doble.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/exterior</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/simple.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/doble</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/vitraux.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/simple</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/tallado.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/vitraux</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/reja.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/tallado</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/frente.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/reja</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/colonial.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/frente</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/tag/demolicion.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/colonial</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1001.html</loc>
+  <loc>https://www.lacampana.com.ar/tag/demolicion</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1003.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1001</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1004.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1003</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1008.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1004</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1009.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1008</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1010.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1009</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1012.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1010</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1018.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1012</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1022.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1018</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1023.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1022</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1024.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1023</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1031.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1024</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1051.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1031</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1052.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1051</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1053.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1052</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1054.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1053</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1055.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1054</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1057.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1055</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1058.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1057</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1153.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1058</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1154.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1153</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1156.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1154</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1433.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1156</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1473.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1433</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1476.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1473</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1484.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1476</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1524.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1484</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1560.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1524</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1583.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1560</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1589.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1583</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1619.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1589</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1626.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1619</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1630.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1621</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1639.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1626</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1645.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1630</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1652.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1639</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1653.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1645</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1654.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1652</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1656.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1653</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1662.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1654</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1668.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1656</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1670.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1662</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1672.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1668</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1676.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1670</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1680.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1672</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1681.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1676</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1682.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1680</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1683.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1681</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1684.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1682</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1685.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1683</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1686.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1684</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1687.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1685</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1691.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1686</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1692.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1687</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1693.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1691</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1694.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1692</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1695.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1693</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1696.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1694</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1697.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1695</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1634.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1696</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1698.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1697</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1699.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1634</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1700.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1698</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1701.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1699</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1702.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1700</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1703.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1701</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1704.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1702</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1705.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1703</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1706.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1704</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1707.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1705</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1708.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1706</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1709.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1707</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1710.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1708</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1711.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1709</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1712.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1710</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1713.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1711</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1714.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1712</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1675.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1713</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1715.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1714</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1716.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1675</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1717.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1715</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1688.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1716</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1718.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1717</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1719.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1688</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1720.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1718</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1721.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1719</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1722.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1720</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1723.html</loc>
+  <loc>https://www.lacampana.com.ar/product/1721</loc>
   <lastmod>2022-06-04T17:50:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 <url>
-  <loc>https://www.lacampana.com.ar/product/1485.html</loc>
-  <lastmod>2022-06-04T17:50:24+00:00</lastmod>
+  <loc>https://www.lacampana.com.ar/product/1722</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1723</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1724</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1725</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1726</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1727</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1728</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1729</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1730</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1731</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1732</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1733</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1734</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
+  <priority>0.70</priority>
+</url>
+<url>
+  <loc>https://www.lacampana.com.ar/product/1736</loc>
+  <lastmod>2023-09-10T13:45:24+00:00</lastmod>
   <priority>0.70</priority>
 </url>
 </urlset>
